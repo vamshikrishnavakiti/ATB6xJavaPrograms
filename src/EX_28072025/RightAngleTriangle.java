@@ -9,6 +9,7 @@ public class RightAngleTriangle {
                 System.out.print("*");
             }
             System.out.println();
+
         }
     }
 }
